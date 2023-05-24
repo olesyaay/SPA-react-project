@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SPA-react-project/static/css/main.e5a18b90.css",
-    "main.js": "/SPA-react-project/static/js/main.7b3e4557.js",
+    "main.js": "/SPA-react-project/static/js/main.9e28be84.js",
     "static/media/cooking.gif": "/SPA-react-project/static/media/cooking.41b83bb4aae4e49d3623.gif",
     "index.html": "/SPA-react-project/index.html",
     "main.e5a18b90.css.map": "/SPA-react-project/static/css/main.e5a18b90.css.map",
-    "main.7b3e4557.js.map": "/SPA-react-project/static/js/main.7b3e4557.js.map"
+    "main.9e28be84.js.map": "/SPA-react-project/static/js/main.9e28be84.js.map"
   },
   "entrypoints": [
     "static/css/main.e5a18b90.css",
-    "static/js/main.7b3e4557.js"
+    "static/js/main.9e28be84.js"
   ]
 }
